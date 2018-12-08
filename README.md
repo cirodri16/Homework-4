@@ -21,5 +21,5 @@ seq_more_cumulative.png
 
 flybase2_unitigs.png
 ***
-###### Contiguity plot comparing assemblies"
+###### Contiguity plot comparing assemblies:
 CDF_assembly.png

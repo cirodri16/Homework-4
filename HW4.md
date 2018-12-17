@@ -221,6 +221,11 @@ plotCDF2 seq_dmel_more.lengths seq_more.png
 ```
 IMAGE RESULT:
 ![seq_more_cumulative.png](https://github.com/cirodri16/Homework-4/blob/master/seq_more_cumulative.png?raw=true)
+
+### Comments on "Summarize partitions of a genome assembly"
+
+Perfection! As a matter of taste, you might consider using ```geom_histogram()```. It is more natural and easier to control for this purpose. But your plots are perfectly fine.
+
 # Genome assembly
  > Assemble a genome from MinION reads:
 1. Download the reads from here
